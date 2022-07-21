@@ -1,0 +1,21 @@
+.nav-hover:hover{
+    color: #FA5959;
+}
+.button-hover:hover{
+    color: #FA5959;
+    background: rgb(255, 255, 255);
+}
+.card-button-hover:hover{
+    color: #5265E1;
+    background: rgb(255, 255, 255);
+}
+.hover-tab:hover{
+    color: #FA5959;
+}
+.asccordion-button::after{
+    filter: hue-rotate(120deg);
+}
+.accordion-button:not(.collapsed){
+    color: black;
+    background-color: white;
+}
